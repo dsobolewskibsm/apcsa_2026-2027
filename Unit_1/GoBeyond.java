@@ -7,5 +7,6 @@ public class GoBeyond{
         int AllForOne = powerLevelA + powerLevelB;
 
         System.out.println(AllForOne);
+        //Yes, this is a My Hero Academia reference.
     }
 }
