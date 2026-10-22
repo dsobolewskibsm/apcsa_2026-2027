@@ -4,7 +4,7 @@ public class RandomNumbers
    {
       int topOfRange = 20;
 
-      double rndNumber = (Math.random());
+      double rndNumber = Math.random();
 
       int rndNumberTwo = (int)(rndNumber * topOfRange) + 1;
       //What range is the above line actually giving us?
